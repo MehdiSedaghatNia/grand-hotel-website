@@ -10,6 +10,9 @@ A guided exercise project from "Udemy" by "Code and Create".
 ## Implementation process:
 
 1. Initial implementation was done independently, without referencing the course material.
+2. Codebase was then refactored to improve structure and readability.
+3. After reviewing the course implementation, the project was rewritten to align with best practices.
+4. Final improvements and personal enhancements were applied.
 
 
 
